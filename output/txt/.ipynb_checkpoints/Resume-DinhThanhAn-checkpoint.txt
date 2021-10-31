@@ -1,0 +1,81 @@
+www.github.com/thanhan123
+
+D​INH​ T​HANH​ A​N
+
+080-7258-6041
+thanhan.uit@gmail.com
+
+E​MPLOYMENT
+Senior iOS Developer
+Allm (Japan)
+Join: Chat application for medical personnel
+● Develop new features and maintain an old code base.
+● Replace old database framework by Realm and apply reactive paradigm for chat feature.
+● Centralized application error handling system by using responder chain.
+● Utilized​: Realm.
+
+April 2020
+
+Senior iOS Developer
+Nanameue (Japan)
+May 2019 - April 2020
+YAY: Japanese social network application
+● Develop new features and maintain an old code base.
+● Separate app features into modules for the benefit of maintenance.
+● Update images picker performance when loading a large number of photos (more than 10000 photos).
+● Utilized​: Git, Swift 4, Design pattern, BuddyBuild.
+Senior iOS Developer
+Elken (Malaysia)
+May 2018 - April 2019
+NiBS: Ecommerce application that let contributor buy company products and manage down-line members
+● Lead iOS team, research, make decisions and train other team members about technology that is used to
+develop the project.
+● Create app skeleton, networking handler, process JSON response, setup database, automation build,
+handle Javascript functions from website.
+● Implement core features for buying company’s products.
+● Utilized​: Git, Swift 4, Design pattern, Core Javascript framework, Fastlane, Realm
+iOS Developer
+Elisoft (Vietnam)
+June 2015 – April 2018
+NearShop: Ecommerce application that let shop owners manage their shops
+● Created networking manager, using storyboard to implement app screens, handle syncing data between
+application and server.
+● Enhance processing large XML responses using TBXML, successfully reduce processing time from 10
+minutes to 20 seconds.
+● Utilized​: XML, Design pattern, Realm
+Text OCR: Text extracting from image
+● Develop the entire project from scratch.
+● Using openCV features to detect text positions, process images to increase accuracy rate.
+● Integrated Tessaract framework to translate image to text.
+● Utilized​: C++, openCV, Tessaract
+AAL: Audio controlling for ZIK headphone
+● Implement UI using storyboard.
+● Integrated openGL for drawing charts that show sound attributes.
+● Research algorithm to draw curves and control the shape.
+● Using openCV feature to process images that are captured from the camera to leverage accuracy rate.
+● Utilized​: Objective C, C++, openGL, Tessaract, Debugging and memory analyzing in Xcode.
+
+E​DUCATION
+Ho Chi Minh city
+Vietnam National University
+Sept 2011 – Dec 2015
+● B.S.E. in Computer Networking and Communication Engineering, Dec 2015. In-major GPA: 3.3.
+● Graduate Coursework: Software Foundations; Computer Architecture; Algorithms; Computer
+networking; Computational Theory.
+● Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages;
+Architecture; Engineering Entrepreneurship.
+
+T​ECHNICAL​ E​XPERIENCE
+Projects
+● Display stocks data by chart ​(2015). A system for collecting stocks data in real-time and displaying these
+info by bubble chart on the website. Javascript, Python.
+● Finding a parking lot using voice ​(2017). An iOS application using Siri kit to extract wanted parking
+information (start time, duration, car name) from a user's voice. Siri kit, iOS Extension.
+A​DDITIONAL​ E​XPERIENCE
+● Machine learning Course: ​Finished Machine learning online course of Stanford University.
+● Deep learning specialization: ​Finished Deep learning specialization online course of Andrew Ng prof.
+Languages and Technologies
+● (proficient): Objective-C; Swift (familiar): C++; Python
+● XCode; Interface Builder; Git
+
+

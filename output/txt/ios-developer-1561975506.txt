@@ -1,0 +1,81 @@
+IOS developer
+
+ROBERT SMITH
+
+Phone: (123) 456 78 99
+Email: info@qwikresume.com
+Website: www.qwikresume.com
+LinkedIn:
+linkedin.com/qwikresume
+Address: 1737 Marshville Road,
+Alabama.
+
+Objective
+Over 8 years of experience in Information Technology, experience in the analysis, design,
+development, implementation and maintenance of native and mobile applications using
+Objective-C, Swift.
+
+Skills
+iOS, Xcode, Objective-C, Development, Cocoa, Cocoa Touch, iOS Development, Mac OSX.
+
+Work Experience
+IOS developer
+ABC Corporation
+
+
+
+
+
+
+
+
+
+­ April 2014 – September 2014
+
+Developed new features for imo.im iOS 8 with Today and Share extension by using cache to
+handle data between main and extension app, which impacted 25% of imos users and
+received great feedback from app store.
+Made uploading faster by 20% and retried downloading features from local gallery by using
+Grand Central Dispatch.
+Utilized different states to better handle video/audio call UI and functions.
+Made IOS apps new setting bar responsive to different sizes of screen (Ipad, Iphone).
+Separated imo localization (different types of Spanish, Portuguese, Chinese), thereby
+supporting good translation that increased non-English speaking users by 300% for iOS app.
+Recoded group creation function to invite users from both client (iMessage) and server sides,
+thereby increasing the amount of group creation by 40%.
+Added phonebook, camera, mic permission alert and instruction for all imo iOS users.
+
+IOS Developer
+ABC Corporation ­ 2013 – 2014
+
+
+
+
+
+
+
+
+Taqtile is a Seattle-based mobile application development headquarter who also has another
+office in Brazil.
+There I had the opportunity to develop the following applications Dollar General Application
+developed for iOS.
+The app is available on App Store.
+Extra Application developed for a Brazilian supermarket chain, the application is available for
+both Google Play and App Store.
+Multiplus Application developed for iPhone, iPad and Android, already available for both
+Google Play and App Store.
+Piriri Application developed for Merk to find bathrooms on the street, available for both Google
+Play and App Store.
+Fastenal Application developed for iPad and its not available on App Store because its an
+internal system..
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines
+
+Education
+Bachelor of Science in Computer Science - (Drexel University - Philadelphia, PA)
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Guidelines
+
+
