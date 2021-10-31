@@ -1,0 +1,124 @@
+Samantha Ru
+IOS DEVELOPER
+
+info@resumekraft.com
+
++1-202-555-0135
+
+New York, US
+
+Summary
+
+linkedin.com/in/sam
+
+Skills
+
+4.7 years of experience in developing applications on IOS
+
+Swift,Objective -c
+
+Work experience in swift programming
+Decent knowledge MVC Architecture
+Experience in using SOAP, REST-based Web Services
+
+Tools: XCode
+
+Good knowledge on push notification integration
+Experience in App submission to the app store
+Excellent communication skills
+Passionate to secure a challenging position in a reputable
+organization to expand my learnings, knowledge, and skills.
+
+FrameWorks: Cccoa Touch
+Data Storage:
+Sqlite,Plist,NSUserDefaults
+ParsingTechniques:XML,JSON
+WebServices: REST, SOAP
+
+Education
+Experience
+iOS Developer
+Edu-Tech Solutions LLC Jul 2017 - Present
+As a Developer i am responsible in
+Gathering the requirments
+Create UIDesigns screens
+Total end-end development and
+Uploading the app to AppStore
+
+Projects
+NY Model School IOS App
+Developer
+Project Details:
+Project Name: NY Model School
+Client: NY Model International Public School
+Role: Developer
+Organization: My Class Board Educational Solutions
+Tools: XCode
+Technologies: IOS -10,Swift
+Project Description:
+This application is developed to constantly update parents about their
+child school activities also build a parent-teacher association. They can
+check grades, attendance status, assignments, and more. Parents will
+constantly receive alerts regarding the latest announcements,
+pictures, etc. parents will be kept updated with everything that is
+happening at NY Model International Public School
+Silver Tune IOS App
+Developer
+Project Details:
+Project Name: Silver Tune
+Client: Silver Tune
+Role: Developer
+Organization: My Class Board Educational Solutions
+Tools: XCode
+
+Computer Science Engineering
+New York University of
+Technology
+Aug 2013 - Nov 2017
+with aggregate of 6.3%
+Higher Secondary Education
+The Texas Modal School
+Jun 2011 - May 2013
+with an aggregate of 78%
+
+Languages
+English
+German
+French
+Chines
+
+Certifications
+CCNA (Essentials)
+CCNA (Switching & Routing)
+
+Project Name: Silver Tune
+Client: Silver Tune
+Role: Developer
+Organization: My Class Board Educational Solutions
+Tools: XCode
+Technologies: IOS -10, swift
+Project Description:
+This application is developed to constantly update parents about their
+child school activities also build a parent-teacher association. They can
+check grades, attendance status, assignments, and more. Parents will
+constantly receive alerts regarding the latest announcements,
+pictures, etc. parents will be kept updated with everything that is
+happening at Silver Tune
+Bring-up International school
+Developer
+Project Details:
+Project Name: Bring-up International school
+Client: Bring-up International school
+Role: Developer
+Organization: My Class Board Educational Solutions
+Tools: XCode
+Technologies: IOS -10, swift
+Project Description:
+This application is developed to constantly update parents about their
+child school activities also build a parent-teacher association. They can
+check grades, attendance status, assignments, and more. Parents will
+constantly receive alerts regarding the latest announcements,
+pictures, etc. parents will be kept updated with everything that is
+happening at Bring-up
+
+
